@@ -20,6 +20,12 @@ My work experience tells below are important:
 
 3.2. Lookibility
 3.3. Availability (Reliability)
+- Mean time between failures (MTBF) is predicted elapsed time between inherent failures of a mechanical system, during normal system operation
+- MTBF can be calculated as the arithmetic mean (average) time between failures of a system
+https://en.wikipedia.org/wiki/Mean_time_between_failures
+- what is the time between two failures of system? what is average of all such incidents? are they acceptable? 
+- when the system can be down? like when upgrades happen? how long can the sytem be down when this happens?
+- can the down times be scheduled?
 
 4. Maintainability (Changeability/ Flexibility/ Testibility)
 - easy to change the code? (TBD system?)
@@ -27,9 +33,12 @@ My work experience tells below are important:
 - enough inline documentation? is code easy to read?
 
 4.2. Extensibility
-4.3. Portability
+- 
 
-5. Scalability
+4.3. Portability
+- 
+
+5. Scalability - meet the expected and little over the expected usage/ demand (requests & users)
 - what is your current peak load that system can handle? https://en.wikipedia.org/wiki/Concurrent_user
 - what happens at the peak load? which system fails/slows down first? 
 - what will happen when system fails/ slows down to accomodate more users? scales up (upgrade nodes) or scales out (add nodes)? is it automatic or manual?
