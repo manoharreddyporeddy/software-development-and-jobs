@@ -15,6 +15,6 @@ http://codesqueeze.com/the-7-software-ilities-you-need-to-know/
 
 # time stamps
 
-  all important operations, must be having TIME TAKEN logs
+  all important operations, must be having TIME TAKEN logs, which tell how much time they took - save time for customer and cost
   
   
