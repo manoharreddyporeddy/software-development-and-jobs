@@ -47,9 +47,11 @@ https://en.wikipedia.org/wiki/Mean_time_between_failures
 
 -----------------------------------------------
 # CAP
-	Consistency			- Every read receives the most recent write or an error
+	Consistency		- Every read receives the most recent write or an error
 	Availability		- Every request receives a (non-error) response – without guarantee that it contains the most recent write	
 	Partition tolerance	- The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
+
+Looks, like P can have either A or C. And, AC is possible, not P.
 
 # ACID
 	Atomicity	- each transaction be "all or nothing"
