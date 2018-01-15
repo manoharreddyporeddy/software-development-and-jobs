@@ -30,9 +30,22 @@ My work experience tells below are important:
 
 1. Functionality
 2. Security
-3. Usability & Lookibility
-3.2. Availability (Reliability)
+3. Usability
+- can customers easily use system?
+- can customers easily learn system? use UI metraphors (desktop computer?)
+- can customers easily  control system?
+- are common operations fast?
+- are error messages are good?
+- are validations correct?
+
+3.2. Lookibility
+3.3. Availability (Reliability)
+
 4. Maintainability (Changeability/ Flexibility/ Testibility)
+- easy to change the code? (TBD system?)
+- enough unit/api/regression tests? to find if the current system is breaken due to new change added to system?
+- enough inline documentation? is code easy to read?
+
 4.2. Extensibility
 4.3. Portability
 5. Scalability
