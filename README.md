@@ -1,3 +1,5 @@
+(This is in progress)
+
 # all-about-software-development
 
 My work experience tells below are important:
@@ -25,5 +27,7 @@ My work experience tells below are important:
   
 
 some others here:
+http://www.softwarearchitecturenotes.com/architectureRequirements.html
+http://www.softwarearchitectures.com/overview.html
 http://codesqueeze.com/the-7-software-ilities-you-need-to-know/
 
