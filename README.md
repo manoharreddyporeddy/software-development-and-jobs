@@ -5,27 +5,7 @@
 <pre>
 My work experience tells below are important:
 
-# logging level
-
-1. dev,qa,prod environment
-
-  important log messages at error level
-
-2. local environment (computer/laptop)
-
-  log messages at verbose level
-  
-3. log levels must be externally controllable
-
-  form environment variables, host.json file, etc.
-  restart application is generally done when doing above as a best practice
-
-
-# time stamps
-
-  all important operations, must be having TIME TAKEN logs, which tell how much time they took - save time for customer and cost
-
-
+-----------------------------------------------
 # My Software “-ilities”
 
 1. Functionality
@@ -55,7 +35,33 @@ My work experience tells below are important:
 - what will happen when system fails/ slows down to accomodate more users? scales up (upgrade nodes) or scales out (add nodes)? is it automatic or manual?
 
 6. Upgradeability
+
+-----------------------------------------------
+# good code stategies?
+
+# logging level
+
+1. dev,qa,prod environment
+
+  important log messages at error level
+
+2. local environment (computer/laptop)
+
+  log messages at verbose level
   
+3. log levels must be externally controllable
+
+  form environment variables, host.json file, etc.
+  restart application is generally done when doing above as a best practice
+
+
+# time stamps
+
+  all important operations, must be having TIME TAKEN logs, which tell how much time they took - save time for customer and cost
+
+
+-----------------------------------------------
+
 </pre>
 
 some others here:
