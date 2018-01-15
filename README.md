@@ -35,8 +35,8 @@ My work experience tells below are important:
 4. Maintainability (Changeability/ Flexibility/ Testibility)
 4.2. Extensibility
 4.3. Portability
-6. Scalability
-7. Upgradeability
+5. Scalability
+6. Upgradeability
   
 </pre>
 
