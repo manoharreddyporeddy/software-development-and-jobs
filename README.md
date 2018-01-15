@@ -48,7 +48,12 @@ My work experience tells below are important:
 
 4.2. Extensibility
 4.3. Portability
+
 5. Scalability
+- what is your current peak load that system can handle?
+- what is your current peak load that system can handle?
+- what is your current peak load that system can handle?
+
 6. Upgradeability
   
 </pre>
