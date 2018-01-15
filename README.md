@@ -23,7 +23,19 @@ My work experience tells below are important:
 # time stamps
 
   all important operations, must be having TIME TAKEN logs, which tell how much time they took - save time for customer and cost
-  
+
+
+# My Software “-ilities”
+
+1. Functionality
+2. Security
+3. Usability & Lookibility
+3.2. Availability (Reliability)
+4. Maintainability (Changeability/ Flexibility/ Testibility)
+4.2. Extensibility
+4.3. Portability
+6. Scalability
+7. Upgradeability
   
 
 some others here:
