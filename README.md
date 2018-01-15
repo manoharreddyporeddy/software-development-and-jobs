@@ -1,7 +1,6 @@
 # all-about-software-development
 
-http://codesqueeze.com/the-7-software-ilities-you-need-to-know/
-
+My work experience tells below are important:
 
 # logging level
 
@@ -12,9 +11,19 @@ http://codesqueeze.com/the-7-software-ilities-you-need-to-know/
 2. local environment (computer/laptop)
 
   log messages at verbose level
+  
+3. log levels must be externally controllable
+
+  form environment variables, host.json file, etc.
+  restart application is generally done when doing above as a best practice
+
 
 # time stamps
 
   all important operations, must be having TIME TAKEN logs, which tell how much time they took - save time for customer and cost
   
   
+
+some others here:
+http://codesqueeze.com/the-7-software-ilities-you-need-to-know/
+
