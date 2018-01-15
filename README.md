@@ -46,6 +46,19 @@ https://en.wikipedia.org/wiki/Mean_time_between_failures
 6. Upgradeability
 
 -----------------------------------------------
+# CAP
+	Consistency			- Every read receives the most recent write or an error
+	Availability		- Every request receives a (non-error) response – without guarantee that it contains the most recent write	
+	Partition tolerance	- The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
+
+# ACID
+	Atomicity	- each transaction be "all or nothing"
+	Consistency	- any transaction will bring the database from one valid state to another
+	Isolation	- concurrent execution of transactions results in a system state that would be obtained if transactions were executed sequentially, i.e., one after the other
+	Durability	- once a transaction has been committed, it will remain so, even in the event of power loss, crashes, or errors
+-----------------------------------------------
+
+
 # good code stategies?
 
 # logging level
