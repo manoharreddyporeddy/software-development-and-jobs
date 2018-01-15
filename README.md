@@ -50,9 +50,9 @@ My work experience tells below are important:
 4.3. Portability
 
 5. Scalability
-- what is your current peak load that system can handle?
-- what is your current peak load that system can handle?
-- what is your current peak load that system can handle?
+- what is your current peak load that system can handle? https://en.wikipedia.org/wiki/Concurrent_user
+- what happens at the peak load? which system fails/slows down first? 
+- what will happen when system fails/ slows down to accomodate more users? scales up (upgrade nodes) or scales out (add nodes)? is it automatic or manual?
 
 6. Upgradeability
   
