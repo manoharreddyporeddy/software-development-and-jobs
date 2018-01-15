@@ -33,7 +33,7 @@ https://en.wikipedia.org/wiki/Mean_time_between_failures
 - enough inline documentation? is code easy to read?
 
 4.2. Extensibility
-- 
+- is the sytem extendable? by end users or 3rd party developers?
 
 4.3. Portability
 - 
