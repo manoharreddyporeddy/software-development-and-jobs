@@ -2,6 +2,7 @@
 
 # all-about-software-development
 
+<pre>
 My work experience tells below are important:
 
 # logging level
@@ -37,6 +38,7 @@ My work experience tells below are important:
 6. Scalability
 7. Upgradeability
   
+</pre>
 
 some others here:
 http://www.softwarearchitecturenotes.com/architectureRequirements.html
