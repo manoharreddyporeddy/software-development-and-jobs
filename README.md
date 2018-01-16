@@ -1,6 +1,6 @@
-(This is in progress)
-
 # all-about-software-development
+
+(This is in progress)
 
 <pre>
 My work experience tells below are important:
@@ -8,8 +8,18 @@ My work experience tells below are important:
 -----------------------------------------------
 # My Software “-ilities”
 
+0. Portability - ability for your application to run on numerous platforms, includes actual application hosting, viewing, or data portability.
+- Which operating systems does your program run on?
+- For web applications, which browsers does your web app support?
+- Can the data be migrated to other systems?
+
 1. Functionality
-2. Security
+2. Security -  the measure of system’s ability to resist unauthorized attempts at usage or behavior modification, while still providing service to legitimate users.
+- does the system needs user-based or role-based security or both?
+- does the system need code-access security?
+- what operations need to be secure?
+- how users will be administered?
+
 3. Usability
 - can customers easily use system?
 - can customers easily learn system? use UI metraphors (desktop computer?)
@@ -33,17 +43,29 @@ https://en.wikipedia.org/wiki/Mean_time_between_failures
 - enough inline documentation? is code easy to read?
 
 4.2. Extensibility
-- is the sytem extendable? by end users or 3rd party developers?
-
-4.3. Portability
-- 
+- is the sytem extendable? by end users or 3rd party developers, via user defined feilds, scripts, etc?
+- is the database schema flexible to accomodate changes?
+- does the system allow Inversion of Control  (IoC)
 
 5. Scalability - meet the expected and little over the expected usage/ demand (requests & users)
 - what is your current peak load that system can handle? https://en.wikipedia.org/wiki/Concurrent_user
 - what happens at the peak load? which system fails/slows down first? 
 - what will happen when system fails/ slows down to accomodate more users? scales up (upgrade nodes) or scales out (add nodes)? is it automatic or manual?
+(having switched between platforms like azure & aws (or GCP), this looks to be not a severe problem, once you select a programming language that these both support )
 
 6. Upgradeability
+
+
+TBD:
+ (Backwards compatibility, Interoperability, and Reusability to name a few).
+ http://www.softwarearchitecturenotes.com/architectureRequirements.html
+ 
+
+sources:
+http://www.softwarearchitecturenotes.com/architectureRequirements.html
+http://www.softwarearchitectures.com/overview.html
+http://codesqueeze.com/the-7-software-ilities-you-need-to-know/
+
 
 -----------------------------------------------
 # CAP
@@ -93,9 +115,4 @@ https://en.wikipedia.org/wiki/CAP_theorem
 -----------------------------------------------
 
 </pre>
-
-some others here:
-http://www.softwarearchitecturenotes.com/architectureRequirements.html
-http://www.softwarearchitectures.com/overview.html
-http://codesqueeze.com/the-7-software-ilities-you-need-to-know/
 
