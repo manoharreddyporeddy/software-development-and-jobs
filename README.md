@@ -88,6 +88,13 @@ https://en.wikipedia.org/wiki/CAP_theorem
 
 -----------------------------------------------
 
+# fan out/ fan in
+the code can fan out and call various Activity Functions
+wait for them all to complete, and then
+allow you to sum the results (fan in)
+-----------------------------------------------
+
+
 
 # good code stategies?
 
