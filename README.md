@@ -89,9 +89,9 @@ https://en.wikipedia.org/wiki/CAP_theorem
 -----------------------------------------------
 
 # fan out/ fan in
-the code can fan out and call various Activity Functions
-wait for them all to complete, and then
-allow you to sum the results (fan in)
+the code can fan out and call various Activity Functions (tasks = durableOrchestrationContext.CallFunctionAsync)
+wait for them all to complete (await Task.WhenAll), and then 
+allow you to sum the results (fan in) (tasks.Sum(t => t.Result))
 -----------------------------------------------
 
 
