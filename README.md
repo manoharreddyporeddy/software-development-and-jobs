@@ -13,6 +13,7 @@ This is in progress
 - Can the data be migrated to other systems?
 
 1. Functionality
+
 2. Security -  the measure of system’s ability to resist unauthorized attempts at usage or behavior modification, while still providing service to legitimate users.
 - does the system needs user-based or role-based security or both?
 -- how users will be administered?
@@ -28,6 +29,7 @@ This is in progress
 - are validations correct?
 
 3.2. Lookibility
+
 3.3. Availability (Reliability)
 - Mean time between failures (MTBF) is predicted elapsed time between inherent failures of a mechanical system, during normal system operation
 - MTBF can be calculated as the arithmetic mean (average) time between failures of a system
