@@ -2,7 +2,7 @@
 
 (This is in progress)
 
-<pre  style="white-space: pre-wrap; word-break: break-all; overflow-wrap: break-word; display: block;">
+<code  style="white-space: pre-wrap; word-break: break-all; overflow-wrap: break-word; display: block;">
 My work experience tells below are important:
 
 -----------------------------------------------
@@ -121,5 +121,5 @@ allow you to sum the results (fan in) (tasks.Sum(t => t.Result))
 
 -----------------------------------------------
 
-</pre>
+</code>
 
