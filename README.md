@@ -2,7 +2,7 @@
 
 (This is in progress)
 
-<pre>
+<pre  style="white-space: pre-wrap; word-break: keep-all;">
 My work experience tells below are important:
 
 -----------------------------------------------
