@@ -2,7 +2,7 @@
 
 (This is in progress)
 
-<pre  style="white-space: pre-wrap; white-space: -moz-pre-wrap; word-wrap: break-word;">
+<pre  style="overflow-wrap: break-word;">
 My work experience tells below are important:
 
 -----------------------------------------------
