@@ -15,9 +15,9 @@ This is in progress
 1. Functionality
 2. Security -  the measure of system’s ability to resist unauthorized attempts at usage or behavior modification, while still providing service to legitimate users.
 - does the system needs user-based or role-based security or both?
+-- how users will be administered?
 - does the system need code-access security?
 - what operations need to be secure?
-- how users will be administered?
 
 3. Usability
 - can customers easily use system?
