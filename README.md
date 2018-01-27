@@ -3,7 +3,7 @@
 
 <code  style="white-space: pre-wrap; word-break: break-all; overflow-wrap: break-word; display: block;">
 
-(This is in progress)
+This is in progress
 
 # My Software “-ilities”
 
@@ -64,6 +64,16 @@ sources:
 http://www.softwarearchitecturenotes.com/architectureRequirements.html
 http://www.softwarearchitectures.com/overview.html
 http://codesqueeze.com/the-7-software-ilities-you-need-to-know/
+
+
+
+-----------------------------------------------
+# Mathematics
+-----------------------------------------------
+# Data structures
+-----------------------------------------------
+# Algorithms
+
 
 
 -----------------------------------------------
