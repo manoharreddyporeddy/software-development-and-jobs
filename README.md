@@ -1,9 +1,10 @@
 # all-about-software-development
 -----------------------------------------------
 
+<code  style="white-space: pre-wrap; word-break: break-all; overflow-wrap: break-word; display: block;">
+
 (This is in progress)
 
-<code  style="white-space: pre-wrap; word-break: break-all; overflow-wrap: break-word; display: block;">
 # My Software “-ilities”
 
 0. Portability - ability for your application to run on numerous platforms, includes actual application hosting, viewing, or data portability.
