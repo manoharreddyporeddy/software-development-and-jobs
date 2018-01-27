@@ -3,7 +3,6 @@
 (This is in progress)
 
 <code  style="white-space: pre-wrap; word-break: break-all; overflow-wrap: break-word; display: block;">
-My work experience tells below are important:
 
 -----------------------------------------------
 # My Software “-ilities”
@@ -89,9 +88,11 @@ https://en.wikipedia.org/wiki/CAP_theorem
 -----------------------------------------------
 
 # fan out/ fan in
+
 the code can fan out and call various Activity Functions (tasks = durableOrchestrationContext.CallFunctionAsync)
 wait for them all to complete (await Task.WhenAll), and then 
 allow you to sum the results (fan in) (tasks.Sum(t => t.Result))
+
 -----------------------------------------------
 
 
@@ -100,17 +101,22 @@ allow you to sum the results (fan in) (tasks.Sum(t => t.Result))
 
 # logging level
 
+0. log level matters for performance
+
 1. dev,qa,prod environment
 
-  important log messages at error level
+  prod will have error level
+    important log messages at error level
+    
+  since prod will have error level, have dev & qa at error level (occasionally see if verbose level is working fine)
 
 2. local environment (computer/laptop)
 
-  log messages at verbose level
+    log messages at verbose level
   
 3. log levels must be externally controllable
 
-  form environment variables, host.json file, etc.
+  form environment variables, dev.config, host.json file, etc.
   restart application is generally done when doing above as a best practice
 
 
