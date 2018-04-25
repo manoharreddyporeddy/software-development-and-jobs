@@ -1,4 +1,4 @@
-
+<pre>
 cypher
 	open standard for querying
 	http://www.opencypher.org/
@@ -60,4 +60,18 @@ ORDER BY
 	c DESC
 LIMIT
 	10
+
+
+
+MATCH
+	(p:Person)	-[:WENT_TO]->	(u:Uni),
+	(p)			-[:LIVES_IN]->	(c:Country),
+	(u)			-[:LED_BY]->	(l:Leader),
+	(u)			-[:LOCATED_IN]-> (s:State),
+WHERE
+	s.abbr = 'CT'
+RETURN
+	p.name,
+	c.country, c.leader, p.hair,
+	u.name, l.name, s.abbr
 
