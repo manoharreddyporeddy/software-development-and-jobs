@@ -138,3 +138,22 @@ where to store?
     multiple databases
         best database
             based on type of data stored
+
+relationaldb query
+    increase performance
+        index
+            prevents full table scans
+            create index on every PK
+            query
+                each join => access different indexes
+                slower, as your data size increases
+    increase performance further
+        de-normalize data
+            inconsistency increases
+            write time performance
+
+    a lot of joins
+        hard to create queries and model relationalships
+        performance degardes as data size increases
+        long & complex queries
+        maintenance difficult
