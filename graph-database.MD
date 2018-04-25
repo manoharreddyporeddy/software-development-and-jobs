@@ -175,3 +175,16 @@ relational db
 convert relational_model to graph_model
     FK -> relationships
     jointables(mainly PK from different tables)        -> relationship (if only FKs), or, relationship with properties (if only FKs)
+
+relationalships
+    is_in
+    includes
+    supplies
+    sold
+
+graph_model
+    easier to model
+    store relationalships
+    relationalships traversal performance REMAINS CONSTANT with increase in data size (due to pointer arithmetic in memory or disk)
+    queries are shorter & readable
+    adding addition properties and relationalships on fly - no schema changes
