@@ -188,3 +188,11 @@ graph_model
     relationalships traversal performance REMAINS CONSTANT with increase in data size (due to pointer arithmetic in memory or disk)
     queries are shorter & readable
     adding addition properties and relationalships on fly - no schema changes
+
+index free adjacency
+    traverse
+        to any connected node
+        in constant time
+        without having index lookup operation
+
+</pre>
