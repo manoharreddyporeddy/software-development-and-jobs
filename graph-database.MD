@@ -97,3 +97,32 @@ Neo4j is
     ACID compliant transactional database
 
 new haskell
+
+
+Neo4j query
+    write code
+        query
+            Neo4j's servers
+        using
+            Neo4j's apis
+            using language dirvers
+                in JS, java, ruby, .net, python, php, etc.
+Neo4j
+    uses
+        BOLT
+            efficent binary protocol (compress, encrypted, has type system)
+    to speak cyper
+        to database 
+
+Neo4j query - faster way
+    write
+        native server-side extensions
+            for Neo4j
+            in Java
+    instead of
+        cypher query optimizer
+    to
+        hard-code
+        how to traverse the graph
+            for your queries
+        minimize few extra milliseconds
