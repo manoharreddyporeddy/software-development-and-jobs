@@ -157,3 +157,21 @@ relationaldb query
         performance degardes as data size increases
         long & complex queries
         maintenance difficult
+
+polyglot persistence
+    multiple db in architecture
+        all in graphdb
+        some in graphdb & relationaldb
+        all in both
+
+graph database cluster
+    Neo4j Neo4j Neo4j
+
+relational db
+    ER diagram
+        multiple tables
+        relationships FKs
+
+convert relational_model to graph_model
+    FK -> relationships
+    jointables(mainly PK from different tables)        -> relationship (if only FKs), or, relationship with properties (if only FKs)
