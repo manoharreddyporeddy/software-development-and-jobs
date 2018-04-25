@@ -126,3 +126,15 @@ Neo4j query - faster way
         how to traverse the graph
             for your queries
         minimize few extra milliseconds
+
+where to store?
+    a lot of joins (relationaldb becomes less performant)
+        move to graphdb
+    tabular data 
+        move to relational db
+    key value data 
+        move to kv db
+
+    multiple databases
+        best database
+            based on type of data stored
