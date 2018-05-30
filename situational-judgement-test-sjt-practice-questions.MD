@@ -3,7 +3,7 @@
 
 Situational Judgement Test (SJT) practice questions
 
-1. A situation in office will be given - 2 bosses fighting you have give your opinion, a lazy coworker, your team skipped you, someone is taking your job 
+1. A situation in office will be given - your 2 bosses are fighting and you have give your opinion, a lazy coworker, your team skipped you, someone is taking your job 
 2. Some options will be given
 3. We have to say if which is BEST & WORST option, or, we have to rate from Most effective action to tak to least effective actions to take
 
