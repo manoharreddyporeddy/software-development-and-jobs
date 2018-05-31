@@ -1,6 +1,6 @@
 <pre>
 
-I din’t have any job at time, so all the time is there, to organize myself.
+I din’t have any job at some point in time, so all the time is there, to organize myself.
 So, I made an excel sheet that looks like below, its sorted by “date, time, round, company, recruiter name, email, skill”
 —————————
 1st May, Tues, 11 am, Round 1, ABC company, name1, name1@a.com, Node.js, Angular.js
@@ -24,8 +24,8 @@ Then
 —————————
 Then more is:
 * Be professional
-    * Don’t cry at any point of interview
-        * only answering interview questions correctly will only help
+    * Don’t cry at any point of interview - Emotional behaviour is only counted towards negative.
+    * only answering interview questions correctly will only help
 * 90% of interviewers are intelligent & are experts in the profession (so don’t assume otherwise)
 * Be genuine. Mention your hard work always pays, collaborative nature. Trying to solve issues, before any escalation is good.
 * If interviewer gave feedback without asking, note it, improve on it
