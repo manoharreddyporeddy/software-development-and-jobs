@@ -94,6 +94,16 @@ Looks, like P can have either A or C. And, AC is possible, not P.
 	Isolation	- concurrent execution of transactions results in a system state that would be obtained if transactions were executed sequentially, i.e., one after the other
 	Durability	- once a transaction has been committed, it will remain so, even in the event of power loss, crashes, or errors
 
+# SOLID
+
+* Single responsibility principle
+* Open/closed principle
+* Liskov substitution principle
+* Interface segregation principle
+* Dependency inversion principle
+
+
+
 https://en.wikipedia.org/wiki/ACID
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
