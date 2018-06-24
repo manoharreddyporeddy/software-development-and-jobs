@@ -95,14 +95,53 @@ Looks, like P can have either A or C. And, AC is possible, not P.
 	Durability	- once a transaction has been committed, it will remain so, even in the event of power loss, crashes, or errors
 
 # SOLID
-
 * Single responsibility principle
+	a class should have only a single responsibility
+		(i.e. changes to   only one part of the software's specification   should be able to   affect the specification of the class)
+		only one part of the software's specification -> specification of the class
+		1 software's specification/ functionality => 1 class/module - only one reason to change
+		1 concern => 1 class/module
+		more robust
+		report compilation (creation), report printing (on paper)
+
 * Open/closed principle
+	software entities
 * Liskov substitution principle
 * Interface segregation principle
 * Dependency inversion principle
 
-
+Firewall
+	software or hardware (firewall device/ computer) or both
+		sits between
+			internal network
+			and
+			outside external network/ internet
+	types:
+		network firewall/ network-based firewall	- (hardware) - internal network of computer/system connected to internet
+		host-based firewall							- (software) - single computer/system connected to internet
+	2 interfaces
+		1 connected to internal network
+		1 connected to external network
+	software or hardware (firewall device/ computer) or both
+		sits between
+			internal network
+			and
+			outside external network/ internet
+		runs set of rules
+			to determine wether or not
+				traffic/ data/ request
+					(http, ftp, etc.)
+				from/to
+					internal network, and
+					outside external network
+				is allowed/ not
+	layered firewall
+		multiple firewall, one behind the other - for better security
+	connect to internet via
+		modem
+		network
+		DSL line
+		cable modem
 
 https://en.wikipedia.org/wiki/ACID
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
