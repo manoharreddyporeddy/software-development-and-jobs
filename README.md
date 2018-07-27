@@ -7,6 +7,34 @@ All about software developemnt and software
 
 This is in progress
 
+
+-----------------------------------------------
+# Micro services architecture
+
+independent re/deployment
+	independent dev - in different programming languages
+	code is organized around business capabilities
+increase autonomy of individual development teams - as ideas can be implemented / without having to coordinate with a wider it delivery
+security problem isolation
+better fault isolation - due to isoated dependencies
+easy integration/ continous automatic deployment
+enables continuous delivery
+better scalabilty
+better reusability
+better efficiency
+components can spread across multiple servers
+works well with containers
+small pieces of functionality, so easy to understand/modify for dev - even new member can become productive quickly
+complement cloud activities
+
+greater sales
+greater mobile orders
+no downtime
+less compute power
+greater operational saving - expensive to commodity hardware
+greater cost saving
+
+
 -----------------------------------------------
 # CAP theorem (for a distributed data store)
 
